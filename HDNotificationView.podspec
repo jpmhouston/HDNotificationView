@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author       = { "Nguyen Hai Dang" => "github.com/nhdang103" }
   s.platform     = :ios
   s.source       = { :git => "https://github.com/jpmhouston/HDNotificationView.git", :tag => 'v1.0-jpmh' }
-  s.screenshot   = "https://github.com/jpmhouston/HDNotificationView/blob/master/Assets/screen_portrait.gif"
+  s.screenshot   = "https://raw.githubusercontent.com/jpmhouston/HDNotificationView/master/Assets/screenshot_portrait.PNG"
   s.source_files = 'Demo/HDNotificationView/HDNotificationView.{h,m}'
   s.framework    = 'QuartzCore'
   s.requires_arc = true
